@@ -1,4 +1,4 @@
-public class superMarche {
+public class SuperMarche {
     public static void main(String[] args) {
 // Les articles vendus dans le supermarché
         Article choufleur = new Article("Chou-fleur", 3.50, false);
